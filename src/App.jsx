@@ -1,5 +1,4 @@
 import About from "./Components/About/About";
-// import Experience from "./Components/Experience/Experience";
 import Footer from "./Components/Footer/Footer";
 import Home from "./Components/Home/Home";
 import Navbar from "./Components/Navbar/Navbar";
@@ -11,7 +10,6 @@ function App() {
       <Navbar />
       <Home />
       <About />
-      {/* <Experience /> */}
       <Projects />
       <Footer />
     </div>
