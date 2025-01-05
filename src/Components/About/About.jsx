@@ -21,24 +21,7 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
-                </p>
-              </span>
-            </div>
-            <div className="flex gap-3 py-4">
-              <IoArrowForward size={30} className="mt-1" />
-
-              <span className="w-96">
-                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
-                  Database developer
-                </h1>
-                <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
+                I have been designing and developing responsive websites tailored to clients' needs. I specialize in creating intuitive user interfaces using HTML, CSS, JavaScript, and React.js, ensuring a seamless user experience across devices. My work involves closely collaborating with clients to understand their requirements and deliver solutions that align with their goals. I also integrate RESTful APIs and manage application states efficiently using Redux to enhance functionality.
                 </p>
               </span>
             </div>
@@ -50,9 +33,21 @@ const About = () => {
                   Backend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
+                In my role as a Backend Developer for personal projects, I have built secure and scalable backend systems using Node.js and Express.js. My expertise extends to designing and optimizing databases, leveraging technologies like MongoDB and MySQL for efficient data storage and retrieval. I am experienced in deploying applications on cloud platforms such as Heroku and Netlify, ensuring high performance and availability for users.
+                </p>
+              </span>
+            </div>
+            <div className="flex gap-3 py-4">
+              <IoArrowForward size={30} className="mt-1" />
+
+              <span className="w-96">
+                <h1 className="text-xl md:text-2xl font-semibold leading-normal">
+                  Machine Learning Enthusiast
+                </h1>
+                <p className="text-sm md:text-md leading-tight">
+                As a Machine Learning Enthusiast, I have worked on academic projects that showcase my interest and skills in this field. One of my notable projects includes developing a Skin Disease Detection System using Python and scikit-learn. This project involved applying machine learning algorithms for image segmentation and achieving accurate predictions. I also utilized tools like Matplotlib and Seaborn to visualize data and results effectively, providing deeper insights into the project outcomes.
+
+
                 </p>
               </span>
             </div>
